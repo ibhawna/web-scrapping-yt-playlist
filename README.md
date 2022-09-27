@@ -10,4 +10,4 @@ Get the playlist's  total videos, videos titles with their duration in a pdf wit
 8. for auto scrolling, get current videos on one scroll
 9. automate scroll using js and njs till the end of the playlist
 10. get the details of each video in the playlist
-11. make a pdf using pdfkit
+11. make a pdf using pdfkit package
